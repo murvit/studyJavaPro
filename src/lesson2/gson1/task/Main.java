@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         byte[] buf;
-        RandomAccessFile f = new RandomAccessFile("c:\\json.txt", "r");
+        RandomAccessFile f = new RandomAccessFile("src\\res\\json.txt", "r");
         try {
             buf = new byte[(int)f.length()];
             f.read(buf);

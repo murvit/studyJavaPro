@@ -3,13 +3,13 @@
     <book>
         <author>Author1</author>
         <price>14.55</price>
-        <publish_date>2015-07-08T19:38:03.645+03:00</publish_date>
+        <publish_date>2015-07-14T17:04:41.136+03:00</publish_date>
         <title>Title1</title>
     </book>
     <book>
         <author>Author2</author>
         <price>66.0</price>
-        <publish_date>2015-07-08T19:38:03.645+03:00</publish_date>
+        <publish_date>2015-07-14T17:04:41.136+03:00</publish_date>
         <title>Title2</title>
     </book>
 </catalog>
